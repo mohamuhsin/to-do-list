@@ -28,4 +28,52 @@
 1. Use JSX to map over the list of to-do items and display them.
 2. Implement the ability to mark items as completed by changing their styles when clicked.
 
-These projects will help you and your groupmates practice JSX and React components without diving into more complex concepts like props and states. You can gradually progress from the basic JSX practice to building a simple to-do list application.
+**CSS Code**
+
+```
+/* TodoList.css */
+
+.todo-list {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.todo-list h1 {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.todo-list input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.todo-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-list li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.todo-list button {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 10px;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.todo-list button:hover {
+  background-color: #555;
+}
+```
