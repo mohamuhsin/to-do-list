@@ -22,7 +22,7 @@
 2. Implement event handlers to add new items to the list when the form is submitted and update the state accordingly.
 
 **Step 5:** Display and update the list.
-**Step 6:** Display and update the list.
+**Step 6:** Style your app using css.
 
 
 1. Use JSX to map over the list of to-do items and display them.
