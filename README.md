@@ -1,4 +1,4 @@
-# To-Do-List
+# ToDo List
 
 **Project: Building a Simple To-Do List**
 
